@@ -1,9 +1,15 @@
-A Mac OS X Screen saver based on the work of the following reddit post:
+A Mac OS X Screen saver where you can watch your seconds (and minutes and hours) slowly drain away. Depressing and fun, at the same time!
+
+Download: "DrainSaver-1.0.zip":http://cloud.github.com/downloads/fdb/drainsaver/DrainSaver-1.0.zip.
+
+This wraps the work of the following reddit post:
 
 http://www.reddit.com/r/programming/comments/8zxgy/i_love_clocks_and_javascript_and_canvas_so_i_made/
 
-You can watch your seconds (and minutes and hours) slowly drain away. Depressing and fun, at the same time!
+See the original version in a browser:
 
-Source code by http://www.reddit.com/user/misterjoker
+http://www.blahbleh.com/clock4.php
+
+Source code by blahbleh at blahbleh dot com.
 
 Mac OS X port by frederik at pandora dot be.
