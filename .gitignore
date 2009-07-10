@@ -1,0 +1,9 @@
+# OS X metadata
+.DS_Store
+
+# XCode settings
+*.mode1v3
+*.pbxuser
+
+# Build directory
+build
